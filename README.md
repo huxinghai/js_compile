@@ -18,9 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-    JsCompile::Decode.run("http://www.baidu.com/URL/AA/HT/221F0C4DCEDBAC91")
+    JsCompile::Decode.run("http://www.smzdm.com/URL/AA/HT/221F0C4DCEDBAC91")
 
-    #http://www.google.com/products/111
+    #http://www.amazon.co.uk/dp/B00ZTYEP7G?t=smzdm-21&m=A3P5ROKL5A1OLE&tag=smzdm-21
 
 ## Contributing
 
