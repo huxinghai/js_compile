@@ -25,7 +25,6 @@ module JsCompile
     end
 
     private
-
     def dispose_eval
       @script = gen_eval_plus @body.match(/eval.*\)$/).to_s
       code = ExecJS.compile(@script).call("bridging")
